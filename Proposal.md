@@ -7,4 +7,4 @@ The three indicators will be feed through Recurrent Neuron Network and train wit
 
 [Integrated Notebook](Integrated.ipynb) - Main file for this project contains code for Candlestick patterns, Technical Analysis signals and Machine Learning models. 
 
-[News_API Notebook](News_API/news_api.ipynb) - Generate sentiment data to use in Integrated Notebook.
+[News_API Notebook](News_API/news_api.ipynb) - Generate sentiment data to use in Integrated Notebook. This file create sentiment data csv files and place them in Sentiment_data folder.
