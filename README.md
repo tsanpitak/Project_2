@@ -21,3 +21,7 @@ For the technical analysis, we used Alpaca API to request the historic stock dat
 [Integrated Notebook](Integrated.ipynb) - Main file for this project contains code for Candlestick patterns, Technical Analysis signals and Machine Learning models. 
 
 [News_API Notebook](News_API/news_api.ipynb) - Generate sentiment data to use in Integrated Notebook. This file create sentiment data csv files and place them in Sentiment_data folder.
+
+### Library
+
+We used TA-Lib to create technical analysis indicators and candlestick recognition patterns. Instructions to install the library can be found here: http://mrjbq7.github.io/ta-lib/doc_index.html
